@@ -2,5 +2,5 @@ print "hi";
 
 
 $a = $ARGV[0];
-
-print $a;
+$b = $ARGV[1];
+print $a, $b;
