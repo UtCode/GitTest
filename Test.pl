@@ -1,4 +1,4 @@
-print "hi";
+print "hi12";
 
 
 $a = $ARGV[0];
