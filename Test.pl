@@ -1,2 +1,6 @@
+print "hi";
 
-hdhddhbbdbdbdbsdsbvb dcb cdbc b dbscdhc dscdshds cd cdscd hcd cdsc dcd dgh:
+
+$a = $ARGV[0];
+
+print $a;
